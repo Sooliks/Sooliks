@@ -2,7 +2,7 @@
 
 Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
-🌐 **Мой сайт:** [Sooliks Landing](https://sooliks.vercel.app/) 
+🌐 **Мой сайт:** [Sooliks](https://sooliks.vercel.app/) 
 
 ---
 
@@ -37,5 +37,6 @@ Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 ## 🔹 Контакты
 
 - Telegram: [@Sooliks](https://t.me/ilinshniginavlij)
+
 
 
