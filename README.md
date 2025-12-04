@@ -36,7 +36,8 @@ Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
 ## 🔹 Контакты
 
-- Telegram: [@Sooliks](https://t.me/ilinshniginavlij)
+- Telegram: [@Sooliks](https://t.me/sool1ks)
+
 
 
 
