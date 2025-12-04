@@ -1,12 +1,12 @@
-# Привет, я **Sooliks** 👋
+# Hi, I'm **Sooliks** 👋
 
 Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
-🌐 **Мой сайт:** [Sooliks](https://sooliks.vercel.app/) 
+🌐 **My Website:** [Sooliks](https://sooliks.vercel.app/) 
 
 ---
 
-## 🔹 Стек технологий
+## 🔹 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -19,25 +19,22 @@ Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
 ---
 
-## 🔹 Мои проекты
+## 🔹 My Projects
 
-- **[PayOnTon (сайт)](https://payonton.site)** – Самый безопасный и быстрый способ торговать онлайн с помощью TON
-- **[PayOnTon (приложение)](https://t.me/PayOnTonBot/app)** – Telegram мини-приложение PayOnTon — удобный способ торговли
-- **[Warface Lineups](https://warfacelineups.vercel.app)** – Сайт для раскидок Warface
-- **[ReverseRP](https://github.com/Sooliks/ReverseRP)** – Пет-проект GTA 5 на RAGE MP: C# + React CEF
+- **[PayOnTon (Website)](https://payonton.site)** – The safest and fastest way to trade online using TON
+- **[PayOnTon (App)](https://t.me/PayOnTonBot/app)** – Telegram Mini App PayOnTon — a convenient way to trade
+- **[Warface Lineups](https://warfacelineups.vercel.app)** – A website for Warface lineups
+- **[ReverseRP](https://github.com/Sooliks/ReverseRP)** – A GTA 5 pet project on RAGE MP: C# + React CEF
+- **[Sealit](https://sealify.vercel.app/)** – Every phrase is immortalized. Adding a stamp (Iron / Gold / Diamond) increases its rarity and proves ownership.
 
 ---
 
-## 🔹 GitHub‑статистика
+## 🔹 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooliks&show_icons=true&theme=radical)
 
 ---
 
-## 🔹 Контакты
+## 🔹 Contacts
 
 - Telegram: [@Sooliks](https://t.me/sool1ks)
-
-
-
-
