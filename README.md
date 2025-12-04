@@ -29,12 +29,7 @@ Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
 ---
 
-## 🔹 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sooliks&show_icons=true&theme=radical)
-
----
-
 ## 🔹 Contacts
 
 - Telegram: [@Sooliks](https://t.me/sool1ks)
+
