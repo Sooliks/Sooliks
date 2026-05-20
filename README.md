@@ -21,8 +21,8 @@ Fullstack Developer • Blockchain Enthusiast • Game Dev Hobbyist
 
 ## 🔹 My Projects
 
-- **[PayOnTon (Website)](https://payonton.site)** – The safest and fastest way to trade online using TON
-- **[PayOnTon (App)](https://t.me/PayOnTonBot/app)** – Telegram Mini App PayOnTon — a convenient way to trade
+- **[PayOnTon (Website)](https://payonton.vercel.app/)** – The safest and fastest way to trade online using TON
+- **[PayOnTon (Telegram Mini App)](https://t.me/PayOnTonBot/app)** – Telegram Mini App PayOnTon — a convenient way to trade
 - **[Warface Lineups](https://warfacelineups.vercel.app)** – A website for Warface
 - **[ReverseRP](https://github.com/Sooliks/ReverseRP)** – A GTA 5 pet project on RAGE MP: C# + React CEF
 - **[Sealit](https://sealify.vercel.app/)** – Every phrase is immortalized. Adding a stamp (Iron / Gold / Diamond) increases its rarity and proves ownership.
