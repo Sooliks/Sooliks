@@ -1,6 +1,6 @@
-# SOOLIKS GitHub Profile v6
+# SOOLIKS GitHub Profile v9
 
-## Required repository structure
+## Files to upload
 
 Sooliks/
 ├── README.md
@@ -8,28 +8,22 @@ Sooliks/
     ├── hero.gif
     └── hero-static.png
 
-The README uses `assets/hero.gif`.
+## Why this version is stronger
 
-## Why GIF
+- keeps the approved hero and animation;
+- adds stack visuals through icons without breaking the dark style;
+- no image-links wrapped in anchors, so no blue underline artifacts;
+- no vanity widgets or weak public metrics;
+- compact structure: about → stack → work → principles → contact;
+- more "alive" while still premium and readable.
 
-GitHub README does not allow custom JavaScript/CSS animation. Animated GIF is the most reliable way to add motion without external services.
+## Suggested GitHub profile settings
 
-Animation is intentionally subtle:
-- star twinkle;
-- one slow orbital point;
-- very faint scan-light.
+Bio:
+Full-stack Product Developer · Next.js / NestJS · TMA · Web3 · Solana / TON
 
-## Readability changes
+Website:
+https://sooliks.vercel.app/
 
-- larger SOOLIKS wordmark;
-- larger subtitle;
-- no dense grid;
-- fewer micro-labels;
-- high-contrast white on near-black;
-- more whitespace;
-- fewer lines of copy in the hero.
-
-## Telegram
-
-Exact site destination:
+Telegram in README:
 https://t.me/sooliks?direct=
