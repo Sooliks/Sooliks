@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="SOOLIKS — Full-stack Product Developer" />
+  <img src="./assets/hero.gif" width="100%" alt="SOOLIKS — Full-stack Product Developer" />
 </p>
 
 <p align="center">
-  <b>Web products · Telegram Mini Apps · Web3 · Solana / TON · Realtime · Integrations</b>
+  <b>Web Products · Telegram Mini Apps · Web3 · Solana / TON · Realtime · Integrations</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I build **complete digital products**, not isolated screens.
 
-From **product structure and interface** to **backend architecture, data, payments, integrations, deployment and post-launch iteration** — the whole system is designed around one thing: getting the user to a useful result with the least unnecessary friction.
+From **product structure and interface** to backend architecture, data, payments, integrations, deployment and post-launch iteration — the entire system is designed around getting the user to a useful result with the least unnecessary friction.
 
 ```text
 DISCOVER    understand the real problem
@@ -38,7 +38,7 @@ ITERATE     improve it after real usage
 
 ### `VANTA HUD`
 **Transparent Valorant HUD for OBS**  
-Rank, RR and session statistics through one browser source — without a dedicated OBS plugin.  
+Rank, RR and session statistics through a single browser source — without a dedicated OBS plugin.  
 [Open product ↗](https://vantus-obs.vercel.app/)
 
 ### `SLX RUST TRACKER`
@@ -76,36 +76,27 @@ Fast access to positions, tactics and map workflows for team play.
 
 ---
 
-## `03 / WHAT I WORK WITH`
+## `03 / STACK & SYSTEMS`
 
 ```text
-WEB           Next.js / React / product interfaces / dashboards / admin systems
-BACKEND       NestJS / Node.js / Prisma / APIs / application architecture
+FRONTEND      TypeScript / Next.js / React
+BACKEND       NestJS / Node.js / Prisma / REST APIs
 DATA          MongoDB / PostgreSQL
-TELEGRAM      bots / Mini Apps / auth / payments / notifications
-WEB3          Solana / TON / wallets / transactions / payment flows
-SYSTEMS       realtime / external APIs / automation / OBS / integrations
-DESKTOP       Python / C# utilities when browser is not the right tool
+TELEGRAM      Bots / Mini Apps / Auth / Payments / Notifications
+WEB3          Solana / TON / Wallets / Transactions / Payment Flows
+SYSTEMS       Realtime / APIs / Automation / OBS / Integrations
+ADDITIONAL    Python / C#
 ```
 
 ---
 
 ## `04 / ENGINEERING PRINCIPLES`
 
-**Product > feature count**  
-Build what moves the user toward the outcome.
-
-**Clarity > cleverness**  
-Simple UX and understandable architecture scale better than decorative complexity.
-
-**Production > prototype**  
-The critical path has to work under real conditions.
-
-**Systems > isolated screens**  
-Frontend, backend, data and integrations should behave like one product.
-
-**Iteration > handoff**  
-Release is a checkpoint, not the end.
+**Product > feature count** — build what moves the user toward the outcome.  
+**Clarity > cleverness** — simple UX and understandable architecture scale better.  
+**Production > prototype** — the critical path must work under real conditions.  
+**Systems > isolated screens** — frontend, backend and integrations should behave as one product.  
+**Iteration > handoff** — release is a checkpoint, not the end.
 
 ---
 

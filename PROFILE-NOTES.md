@@ -1,37 +1,35 @@
-# SOOLIKS GitHub Profile v5
+# SOOLIKS GitHub Profile v6
 
-## Important
-
-Upload BOTH files:
-
-- README.md
-- assets/hero.png
-
-The previous screenshot showed the hero as broken alt text because the local hero asset was not available at the path used by README.
-
-Final repository structure:
+## Required repository structure
 
 Sooliks/
 ├── README.md
 └── assets/
-    └── hero.png
+    ├── hero.gif
+    └── hero-static.png
 
-## Why PNG now
+The README uses `assets/hero.gif`.
 
-PNG is the safest choice for GitHub profile rendering:
-- no SVG sanitizer edge cases;
-- no external render service;
-- no dynamic badge dependency;
-- stable visual result in light/dark GitHub themes.
+## Why GIF
 
-## Profile fields to update
+GitHub README does not allow custom JavaScript/CSS animation. Animated GIF is the most reliable way to add motion without external services.
 
-Bio:
-Full-stack Product Developer · Next.js / NestJS · TMA · Web3 · Solana / TON
+Animation is intentionally subtle:
+- star twinkle;
+- one slow orbital point;
+- very faint scan-light.
 
-Website:
-https://sooliks.vercel.app/
+## Readability changes
 
-Do not use the old `https://t.me/sool1ks` profile website field.
-Telegram remains inside README and points to the exact site destination:
+- larger SOOLIKS wordmark;
+- larger subtitle;
+- no dense grid;
+- fewer micro-labels;
+- high-contrast white on near-black;
+- more whitespace;
+- fewer lines of copy in the hero.
+
+## Telegram
+
+Exact site destination:
 https://t.me/sooliks?direct=
