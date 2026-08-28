@@ -1,81 +1,73 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1220,100:000000&text=SOOLIKS&fontColor=F8FAFC&fontSize=66&fontAlignY=37&desc=FULL-STACK%20PRODUCT%20DEVELOPER%20%E2%80%A2%20TMA%20%E2%80%A2%20WEB3&descAlignY=58&descSize=15&animation=fadeIn" alt="Sooliks — Full-stack Product Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:05070B,70:0B1220,100:000000&text=SOOLIKS&fontColor=FFFFFF&fontSize=68&fontAlignY=36&desc=FULL-STACK%20PRODUCT%20DEVELOPER%20%E2%80%A2%20TMA%20%E2%80%A2%20WEB3&descAlignY=58&descSize=15&animation=fadeIn" alt="SOOLIKS" />
 
-<h3>From idea → architecture → production → iteration.</h3>
+<h3><code>BLACK / COSMIC / MINIMAL / PRODUCT-DRIVEN</code></h3>
 
 <p>
-I build web products, Telegram Mini Apps and Web3 systems that are made to be used — not just demonstrated.
+I build products that feel clean, work reliably, and ship with purpose.
 </p>
 
 <a href="https://sooliks.vercel.app/en">
-  <img src="https://img.shields.io/badge/PORTFOLIO-sooliks.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-SOOLIKS.VERCEL.APP-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 <a href="https://t.me/sooliks?direct=">
-  <img src="https://img.shields.io/badge/TELEGRAM-@sooliks-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @sooliks" />
+  <img src="https://img.shields.io/badge/TELEGRAM-@SOOLIKS-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram @sooliks" />
 </a>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-238636?style=for-the-badge" alt="Open to projects" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20PROJECTS-111111?style=for-the-badge&logoColor=white&labelColor=000000" alt="Open to projects" />
 
 <br/><br/>
 
-<code>FULL-STACK</code>
-&nbsp;·&nbsp;
-<code>TELEGRAM / TMA</code>
-&nbsp;·&nbsp;
-<code>SOLANA / TON</code>
-&nbsp;·&nbsp;
-<code>PAYMENTS</code>
-&nbsp;·&nbsp;
-<code>REALTIME</code>
-&nbsp;·&nbsp;
-<code>INTEGRATIONS</code>
+`PRODUCT SYSTEMS` · `NEXT.JS / NESTJS` · `TELEGRAM MINI APPS` · `SOLANA / TON` · `PAYMENTS` · `REALTIME` · `INTEGRATIONS`
 
 </div>
 
-<br/>
-
 ---
 
-## `> about`
+## `SYSTEM.IDENTITY`
 
-I am a **full-stack product developer** focused on turning ideas into complete, production-ready software.
+```txt
+ROLE        : FULL-STACK PRODUCT DEVELOPER
+FOCUS       : WEB PRODUCTS / TMA / WEB3
+MODE        : END-TO-END DELIVERY
+PRIORITY    : CLARITY, RELIABILITY, SHIP-READINESS
+APPROACH    : PRODUCT FIRST, NOT FEATURE FIRST
+```
 
-I work across the whole product surface: **UX, frontend, backend, data, integrations, deployment, and post-launch development**. The goal is not to ship the largest feature list — it is to build the shortest reliable path from a user's problem to a working result.
+I work on the full path from **idea → architecture → production → iteration**.
+
+That means not only interface work, but also **backend systems, data flows, payments, integrations, notifications, deployment, and post-launch improvement**.
+
+> **The user's goal stays at the center. Everything else works around it.**
 
 <table>
 <tr>
 <td align="center" width="25%"><b>06</b><br/><sub>selected products</sub></td>
-<td align="center" width="25%"><b>RU / EN</b><br/><sub>product communication</sub></td>
-<td align="center" width="25%"><b>END-TO-END</b><br/><sub>one product owner</sub></td>
-<td align="center" width="25%"><b>POST-LAUNCH</b><br/><sub>iteration after release</sub></td>
+<td align="center" width="25%"><b>RU / EN</b><br/><sub>clear communication</sub></td>
+<td align="center" width="25%"><b>END-TO-END</b><br/><sub>single product owner</sub></td>
+<td align="center" width="25%"><b>POST-LAUNCH</b><br/><sub>iteration mindset</sub></td>
 </tr>
 </table>
 
-> **The user's goal stays at the center. Everything else works around it.**
-
 ---
 
-## `> operating_model`
+## `SYSTEM.PROTOCOL`
 
-```text
-DISCOVER      understand the real problem, audience, constraints
-      ↓
-DESIGN        remove friction and define the shortest useful flow
-      ↓
-ENGINEER      connect UI, backend, data, payments and integrations
-      ↓
-SHIP          deploy, verify critical paths, release to real users
-      ↓
-ITERATE       fix weak points, measure behavior, improve the product
+```txt
+[01] DISCOVER   → identify the real problem, context, constraints
+[02] DESIGN     → reduce friction and shape the shortest useful path
+[03] ENGINEER   → connect frontend, backend, data and integrations
+[04] SHIP       → release a working system, not a presentation layer
+[05] ITERATE    → improve weak points after real usage appears
 ```
 
-**No black-box process. No handoff after a pretty prototype.**
+**No decorative complexity. No dead-end prototypes. No vague process.**
 
 ---
 
-## `> selected_work`
+## `SYSTEM.PROJECTS`
 
-<sub>Real products with users, integrations, payments, notifications, realtime behavior or ongoing development.</sub>
+<sub>Selected shipped or actively developed work. Built around real use cases, product logic and practical workflows.</sub>
 
 <table>
 <tr>
@@ -84,9 +76,9 @@ ITERATE       fix weak points, measure behavior, improve the product
 ### `01` · [Vanta HUD](https://vantus-obs.vercel.app/)
 **Transparent Valorant HUD for OBS**
 
-Rank, RR and session statistics through a single browser source — without requiring a separate OBS plugin.
+A browser-source HUD with rank, RR and session statistics in a clean overlay format — without requiring a dedicated OBS plugin.
 
-`OBS` `Realtime UI` `Web Product`
+`OBS` `Realtime UI` `Overlay Product`
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +86,7 @@ Rank, RR and session statistics through a single browser source — without requ
 ### `02` · [SLX Rust Tracker](https://slxrust.com/)
 **Companion product for Rust**
 
-Live map, server events, Rust+ devices, notifications and team tooling built around real gameplay workflows.
+Live map, server events, Rust+ devices, alerts and team tooling designed around actual gameplay workflows.
 
 `Realtime` `Alerts` `Integrations`
 
@@ -107,7 +99,7 @@ Live map, server events, Rust+ devices, notifications and team tooling built aro
 ### `03` · [PayOnTon](https://payonton.site/)
 **Telegram-native TON payments**
 
-A product for accepting and managing payment flows inside the Telegram + TON ecosystem.
+A payment product built around Telegram and the TON ecosystem for practical transaction flows and management.
 
 `TON` `Telegram` `Payments`
 
@@ -117,9 +109,9 @@ A product for accepting and managing payment flows inside the Telegram + TON eco
 ### `04` · [Warface Lineups](https://warfacelineups.vercel.app/)
 **Competitive map knowledge base**
 
-Fast access to useful positions and tactics designed around team play instead of content browsing.
+A focused product for fast access to lineups, positions and tactics during play.
 
-`Web` `UX` `Content Product`
+`Web Product` `Fast UX` `Content Systems`
 
 </td>
 </tr>
@@ -140,7 +132,7 @@ An experimental product exploring more private ways to share files and messages.
 ### `06` · [ReverseRP](https://github.com/Sooliks/ReverseRP)
 **Large GTA V role-play project**
 
-Custom mechanics, interfaces, gameplay systems and an internal economy built on RAGE MP.
+Custom mechanics, interfaces, internal economy and game systems built on RAGE MP.
 
 `C#` `React CEF` `Game Systems`
 
@@ -150,34 +142,34 @@ Custom mechanics, interfaces, gameplay systems and an internal economy built on 
 
 <div align="center">
 
-[**VIEW FULL PORTFOLIO ↗**](https://sooliks.vercel.app/en#projects)
-&nbsp;&nbsp;&nbsp;
-[**BROWSE GITHUB ↗**](https://github.com/Sooliks?tab=repositories)
+[**OPEN PORTFOLIO ↗**](https://sooliks.vercel.app/en#projects)
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+[**OPEN REPOSITORIES ↗**](https://github.com/Sooliks?tab=repositories)
 
 </div>
 
 ---
 
-## `> capabilities`
+## `SYSTEM.CAPABILITIES`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 01 / Web Products
-Production websites, dashboards, SaaS products, personal accounts, admin panels and internal tools.
+### `WEB.PRODUCTS`
+Websites, dashboards, SaaS-style services, user accounts, admin panels and internal tools.
 
 </td>
 <td width="33%" valign="top">
 
-### 02 / Telegram & TMA
-Bots and Mini Apps with auth, payments, subscriptions, notifications, user accounts and administration.
+### `TELEGRAM.TMA`
+Bots and Mini Apps with auth, subscriptions, payments, user flows and admin tooling.
 
 </td>
 <td width="33%" valign="top">
 
-### 03 / Web3
-Usable product interfaces for wallets, transactions, tokens and blockchain-native flows.
+### `WEB3.SYSTEMS`
+Interfaces around wallets, tokens, transactions and blockchain-native product flows.
 
 </td>
 </tr>
@@ -185,20 +177,20 @@ Usable product interfaces for wallets, transactions, tokens and blockchain-nativ
 <tr>
 <td width="33%" valign="top">
 
-### 04 / Solana & TON
-Crypto products and payment flows integrated with Solana and TON ecosystems.
+### `SOLANA.TON`
+Products and payment scenarios integrated with Solana and TON ecosystems.
 
 </td>
 <td width="33%" valign="top">
 
-### 05 / Integrations
-Payments, APIs, automation, email, OBS, notifications and third-party services connected into one workflow.
+### `INTEGRATIONS`
+Payments, APIs, notifications, email, automation, OBS and third-party system wiring.
 
 </td>
 <td width="33%" valign="top">
 
-### 06 / Windows Tools
-Focused Python / C# utilities when desktop software is the right interface for the problem.
+### `DESKTOP.UTILS`
+Focused Python / C# utilities when desktop software is the right tool for the job.
 
 </td>
 </tr>
@@ -206,7 +198,7 @@ Focused Python / C# utilities when desktop software is the right interface for t
 
 ---
 
-## `> stack`
+## `SYSTEM.STACK`
 
 <div align="center">
 
@@ -214,35 +206,31 @@ Focused Python / C# utilities when desktop software is the right interface for t
 
 <br/><br/>
 
-**PRODUCT CORE**  
-`TypeScript` · `Next.js` · `React` · `NestJS` · `Node.js`
-
-**DATA & BACKEND**  
-`Prisma` · `MongoDB` · `PostgreSQL` · `REST APIs`
-
-**ECOSYSTEMS & INTEGRATIONS**  
-`Telegram` · `Solana` · `TON` · `Payments` · `OBS` · `Automation`
-
-**OTHER**  
-`Python` · `C#`
+| LAYER | STACK |
+|---|---|
+| **CORE** | `TypeScript` · `Next.js` · `React` · `NestJS` · `Node.js` |
+| **DATA** | `Prisma` · `MongoDB` · `PostgreSQL` · `REST APIs` |
+| **ECOSYSTEMS** | `Telegram` · `Solana` · `TON` |
+| **INTEGRATIONS** | `Payments` · `Notifications` · `OBS` · `Automation` |
+| **ADDITIONAL** | `Python` · `C#` |
 
 </div>
 
 ---
 
-## `> engineering_principles`
+## `SYSTEM.PRINCIPLES`
 
-| ID | Principle | In practice |
+| ID | PRINCIPLE | DESCRIPTION |
 |:--:|---|---|
-| `01` | **Product over feature count** | Every feature should move the user closer to a useful outcome. |
-| `02` | **Clarity over cleverness** | Simple UX and understandable architecture beat unnecessary complexity. |
-| `03` | **Production over prototype** | The important path must survive real usage, not only a demo. |
-| `04` | **Systems over isolated screens** | UI, backend, data and integrations should behave like one product. |
-| `05` | **Iteration over handoff** | Release is a checkpoint; good products continue improving afterward. |
+| `01` | **PRODUCT > FEATURE COUNT** | Build what moves the user closer to the outcome. |
+| `02` | **CLARITY > CLEVERNESS** | Simple UX and understandable systems win long term. |
+| `03` | **PRODUCTION > PROTOTYPE** | Real usage matters more than demo comfort. |
+| `04` | **SYSTEMS > ISOLATED SCREENS** | UI, backend and integrations should behave like one product. |
+| `05` | **ITERATION > HANDOFF** | Release is not the end of the work. |
 
 ---
 
-## `> current_focus`
+## `SYSTEM.CURRENT_FOCUS`
 
 ```yaml
 building:
@@ -259,38 +247,38 @@ ecosystems:
 interested_in:
   - product architecture
   - realtime systems
-  - payments
   - automation
-  - external integrations
+  - integrations
   - developer-friendly UX
+  - launch-ready execution
 
 status: open_to_strong_product_ideas
 ```
 
 ---
 
-## `> work_with_me`
+## `SYSTEM.CONTACT`
 
 <div align="center">
 
-### Have an idea that deserves a real release?
+### Need a product that should actually ship?
 
-Send me the problem, the goal, and what already exists.  
-I'll help turn it into a clear product path and a working release.
+Bring the idea, the goal, and the current state.  
+I can help turn it into a clean product path and a working release.
 
 <br/>
 
 <a href="https://t.me/sooliks?direct=">
-  <img src="https://img.shields.io/badge/START_A_PROJECT-WRITE_ON_TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Write to Sooliks on Telegram" />
+  <img src="https://img.shields.io/badge/START_A_PROJECT-WRITE_ON_TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Write on Telegram" />
 </a>
 <a href="https://sooliks.vercel.app/en">
-  <img src="https://img.shields.io/badge/SEE_THE_WORK-OPEN_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio" />
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-OPEN_WEBSITE-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Open portfolio" />
 </a>
 
 <br/><br/>
 
-<sub><b>Build useful things. Ship them. Improve them.</b></sub>
+<sub><b>BUILD USEFUL THINGS. SHIP THEM. IMPROVE THEM.</b></sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:020617,45:0B1220,100:000000" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:000000,35:05070B,70:0B1220,100:000000" alt="" />
