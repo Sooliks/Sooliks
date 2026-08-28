@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="SOOLIKS — Full-stack Product Developer" />
+  <img src="./assets/hero.png" width="100%" alt="SOOLIKS — Full-stack Product Developer" />
 </p>
 
 <p align="center">
-  <b>FULL-STACK PRODUCT DEVELOPER</b><br/>
-  Web products · Telegram Mini Apps · Web3 · Solana / TON · Realtime · Integrations
+  <b>Web products · Telegram Mini Apps · Web3 · Solana / TON · Realtime · Integrations</b>
 </p>
 
 <p align="center">
   <a href="https://sooliks.vercel.app/en">Portfolio ↗</a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://t.me/sooliks?direct=">Telegram ↗</a>
-  &nbsp;·&nbsp;
-  Open to selected projects
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>OPEN TO SELECTED PROJECTS</code>
 </p>
 
 <br/>
 
-## `01 / PROFILE`
+## `01 / BUILDING PRODUCTS`
 
-I build **complete digital products** — from product structure and UI to backend architecture, data, payments, integrations, deployment, and post-launch iteration.
+I build **complete digital products**, not isolated screens.
 
-The goal is simple: **make the shortest reliable path from a real user problem to a working product.**
+From **product structure and interface** to **backend architecture, data, payments, integrations, deployment and post-launch iteration** — the whole system is designed around one thing: getting the user to a useful result with the least unnecessary friction.
 
 ```text
-PRODUCT      understand what actually matters
-SYSTEM       connect interface, backend, data and integrations
-RELEASE      ship a production-ready result
-ITERATION    improve it after real usage
+DISCOVER    understand the real problem
+DESIGN      shape the shortest useful flow
+ENGINEER    connect frontend, backend, data and integrations
+SHIP        release a production-ready system
+ITERATE     improve it after real usage
 ```
 
 > **The user's goal stays at the center. Everything else works around it.**
@@ -36,68 +36,80 @@ ITERATION    improve it after real usage
 
 ## `02 / SELECTED WORK`
 
-| | Product | What it is |
-|:--:|---|---|
-| `01` | **[Vanta HUD](https://vantus-obs.vercel.app/)** | Transparent Valorant HUD for OBS with rank, RR and session stats through a single browser source. |
-| `02` | **[SLX Rust Tracker](https://slxrust.com/)** | Rust companion with live map, server events, Rust+ devices, alerts and team tooling. |
-| `03` | **[PayOnTon](https://payonton.site/)** | Telegram-native payment flows built around the TON ecosystem. |
-| `04` | **[Warface Lineups](https://warfacelineups.vercel.app/)** | Fast competitive knowledge base for positions, tactics and map workflows. |
-| `05` | **[Sealit](https://sealify.vercel.app/)** | Experimental product for more private file and message sharing. |
-| `06` | **[ReverseRP](https://github.com/Sooliks/ReverseRP)** | Large GTA V role-play project with custom mechanics, interfaces and economy systems. |
+### `VANTA HUD`
+**Transparent Valorant HUD for OBS**  
+Rank, RR and session statistics through one browser source — without a dedicated OBS plugin.  
+[Open product ↗](https://vantus-obs.vercel.app/)
+
+### `SLX RUST TRACKER`
+**Companion product for Rust**  
+Live map, server events, Rust+ devices, alerts and team tooling built around real gameplay workflows.  
+[Open product ↗](https://slxrust.com/)
+
+### `PAYONTON`
+**Telegram-native TON payments**  
+Payment flows designed around Telegram and the TON ecosystem.  
+[Open product ↗](https://payonton.site/)
+
+### `WARFACE LINEUPS`
+**Competitive map knowledge base**  
+Fast access to positions, tactics and map workflows for team play.  
+[Open product ↗](https://warfacelineups.vercel.app/)
+
+<details>
+<summary><b>More work</b></summary>
+<br/>
+
+**Sealit** — private file/message sharing experiment  
+[Open product ↗](https://sealify.vercel.app/)
+
+**ReverseRP** — large GTA V role-play project with custom mechanics, interfaces and economy systems  
+[Open repository ↗](https://github.com/Sooliks/ReverseRP)
+
+</details>
 
 <p align="center">
-  <a href="https://sooliks.vercel.app/en#projects">View full portfolio ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Sooliks?tab=repositories">Browse repositories ↗</a>
+  <a href="https://sooliks.vercel.app/en#projects"><b>View full portfolio ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Sooliks?tab=repositories"><b>Browse repositories ↗</b></a>
 </p>
 
 ---
 
-## `03 / CAPABILITIES`
+## `03 / WHAT I WORK WITH`
 
 ```text
-WEB PRODUCTS        websites / dashboards / SaaS / accounts / admin systems
-TELEGRAM / TMA      bots / Mini Apps / auth / subscriptions / notifications
-WEB3                wallets / transactions / token flows / blockchain UX
-SOLANA / TON        crypto products / payments / ecosystem integrations
-SYSTEM INTEGRATION  APIs / payments / email / OBS / automation / realtime
-DESKTOP             focused Python / C# utilities when browser is not enough
+WEB           Next.js / React / product interfaces / dashboards / admin systems
+BACKEND       NestJS / Node.js / Prisma / APIs / application architecture
+DATA          MongoDB / PostgreSQL
+TELEGRAM      bots / Mini Apps / auth / payments / notifications
+WEB3          Solana / TON / wallets / transactions / payment flows
+SYSTEMS       realtime / external APIs / automation / OBS / integrations
+DESKTOP       Python / C# utilities when browser is not the right tool
 ```
 
 ---
 
-## `04 / STACK`
+## `04 / ENGINEERING PRINCIPLES`
 
-```text
-CORE          TypeScript · Next.js · React · NestJS · Node.js
-DATA          Prisma · MongoDB · PostgreSQL
-ECOSYSTEMS    Telegram · Solana · TON
-SYSTEMS       REST APIs · Payments · Notifications · Realtime · Automation
-ADDITIONAL    Python · C#
-```
+**Product > feature count**  
+Build what moves the user toward the outcome.
 
----
+**Clarity > cleverness**  
+Simple UX and understandable architecture scale better than decorative complexity.
 
-## `05 / OPERATING PRINCIPLES`
+**Production > prototype**  
+The critical path has to work under real conditions.
 
-**01 — Product over feature count**  
-Every feature should move the user closer to the outcome.
-
-**02 — Clarity over cleverness**  
-Simple UX and understandable architecture beat decorative complexity.
-
-**03 — Production over prototype**  
-The critical path has to work under real conditions, not only in a demo.
-
-**04 — Systems over isolated screens**  
+**Systems > isolated screens**  
 Frontend, backend, data and integrations should behave like one product.
 
-**05 — Iteration over handoff**  
-Release is a checkpoint. Good products keep evolving.
+**Iteration > handoff**  
+Release is a checkpoint, not the end.
 
 ---
 
-## `06 / CURRENT SIGNAL`
+## `05 / CURRENT SIGNAL`
 
 ```yaml
 building:
@@ -123,14 +135,14 @@ status: open_to_strong_product_ideas
 
 ---
 
-## `07 / CONTACT`
+## `06 / CONTACT`
 
 **Have a product that should actually ship?**
 
-Send the idea, the goal, and the current state. I prefer clear scope, fast communication, and working releases over unnecessary process.
+Send the idea, the goal and the current state.
 
-**[Write on Telegram ↗](https://t.me/sooliks?direct=)**  
-**[Open portfolio ↗](https://sooliks.vercel.app/en)**
+[**Write on Telegram ↗**](https://t.me/sooliks?direct=)  
+[**Open portfolio ↗**](https://sooliks.vercel.app/en)
 
 <br/>
 

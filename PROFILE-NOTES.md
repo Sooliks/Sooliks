@@ -1,37 +1,37 @@
-# SOOLIKS profile v4
+# SOOLIKS GitHub Profile v5
 
-## What changed
+## Important
 
-- Removed all shields.io badges.
-- Removed capsule-render and other dynamic decorative services.
-- Removed linked image buttons that caused the thin blue underline artifacts in GitHub.
-- Added a local custom SVG hero in `assets/hero.svg`.
-- Reduced section count and visual noise.
-- Shifted the profile toward the pattern used by strong frontend/open-source profiles:
-  identity → proof → capabilities → contact.
-- Kept the black / cosmic / white visual language.
-- Kept Telegram exactly as used on the website:
-  https://t.me/sooliks?direct=
+Upload BOTH files:
 
-## Install
+- README.md
+- assets/hero.png
 
-Copy both:
-- `README.md`
-- `assets/hero.svg`
+The previous screenshot showed the hero as broken alt text because the local hero asset was not available at the path used by README.
 
-into the root of the `Sooliks/Sooliks` profile repository.
-
-Final structure:
+Final repository structure:
 
 Sooliks/
-├─ README.md
-└─ assets/
-   └─ hero.svg
+├── README.md
+└── assets/
+    └── hero.png
 
-## Recommended GitHub bio
+## Why PNG now
 
+PNG is the safest choice for GitHub profile rendering:
+- no SVG sanitizer edge cases;
+- no external render service;
+- no dynamic badge dependency;
+- stable visual result in light/dark GitHub themes.
+
+## Profile fields to update
+
+Bio:
 Full-stack Product Developer · Next.js / NestJS · TMA · Web3 · Solana / TON
 
-## Design rationale
+Website:
+https://sooliks.vercel.app/
 
-Top developer profiles tend to rely on a strong identity and strong work rather than large stacks of badges, counters, dynamic statistics, or long autobiography sections. This version follows that principle while keeping a distinctive SOOLIKS visual identity.
+Do not use the old `https://t.me/sool1ks` profile website field.
+Telegram remains inside README and points to the exact site destination:
+https://t.me/sooliks?direct=
